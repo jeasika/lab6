@@ -25,6 +25,10 @@ button{
     border: 0px;
     border-radius: 5px;
     padding: 5px 10px;
+    background-color: lightseagreen;
+}
+button:hover{
+  background-color: seagreen;
 }
 .lis{
     border: 1px #ccc solid ;
